@@ -11,3 +11,5 @@ git add -A =>adding all changes to staging area
 git commit -m "commit message" => adding staged files to local repository
 
 git remote add origin https://github.com/krishnapriya2104/git_basic.git
+
+this line is added from student branch
